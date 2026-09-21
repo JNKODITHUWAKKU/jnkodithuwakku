@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 👋
 
 I'm Janidu. I build projects across data analysis, data engineering, and machine learning.
 
@@ -10,4 +10,6 @@ I care about clear architecture, reproducible work, and knowing why I chose one 
 
 My toolkit includes **Python, SQL, Microsoft Fabric, Apache Spark, AWS, Docker, and Linux**. The tools change with the problem.
 
-This is where I share what I build and put what I learn into practice. You'll find selected repositories pinned below.
+This is where I share what I build and put what I learn into practice. You'll find selected projects pinned below.
+
+<!-- EOF -->
