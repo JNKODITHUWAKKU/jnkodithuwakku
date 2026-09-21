@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**JNKODITHUWAKKU/jnkodithuwakku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Janidu. I build projects across data analysis, data engineering, and machine learning.
 
-Here are some ideas to get you started:
+I like following a problem all the way through, from understanding what a business needs to making sense of the data and building something useful from it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some projects start with a question. Others start with curiosity about how something works. I like taking both beyond the notebook.
+
+I care about clear architecture, reproducible work, and knowing why I chose one approach over another.
+
+My toolkit includes **Python, SQL, Microsoft Fabric, Apache Spark, AWS, Docker, and Linux**. The tools change with the problem.
+
+This is where I share what I build and put what I learn into practice. You'll find selected projects pinned below.
+
+<!-- EOF -->
